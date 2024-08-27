@@ -1,0 +1,25 @@
+TaskManagerPro/
+│
+├── backend/
+│   ├── controllers/
+│   ├── models/
+│   ├── routes/
+│   ├── config/
+│   ├── middleware/
+│   ├── server.js
+│   └── package.json
+│
+├── frontend/
+│   ├── public/
+│   ├── src/
+│   ├── index.html
+│   ├── app.js
+│   └── style.css
+│
+├── python_scripts/
+│   ├── analytics.py
+│   ├── requirements.txt
+│
+└── README.md
+
+
